@@ -67,6 +67,6 @@ Practical01/
 
 ## Author
 
-**Sarthak Chaudhari**
+**Piyush Nimbalkar**
 
 Semester 7 – R Programming Practical
